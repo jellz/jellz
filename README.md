@@ -1,4 +1,7 @@
-## Hi there 👋
+Currently 👨‍💻 at [XMB](https://xmb.com.au) building [RTOPilot - Student Management System](https://rtopilot.com.au) to rethink the workflows of Australian education and training.
+
+I spend most of my time working on that, alongside contributing to open-source when I can, reading, activism, running, travelling, and studying ⚛️ physics and computer science at the 🏫 University of New South Wales, Sydney. 19.
+
 
 <!--
 **jellz/jellz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
