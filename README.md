@@ -1,4 +1,4 @@
-Currently 👨‍💻 at [XMB](https://xmb.com.au) building [RTOPilot - Student Management System](https://rtopilot.com.au) to rethink the workflows of Australian education and training.
+Currently 👨‍💻 at [XMB](http://github.com/xmb-technology/) building [RTOPilot - Student Management System](https://rtopilot.com.au) to rethink the workflows of Australian education and training.
 
 I spend most of my time working on that, alongside contributing to open-source when I can, reading, activism, running, travelling, and studying ⚛️ physics and computer science at the 🏫 University of New South Wales, Sydney. 19.
 
